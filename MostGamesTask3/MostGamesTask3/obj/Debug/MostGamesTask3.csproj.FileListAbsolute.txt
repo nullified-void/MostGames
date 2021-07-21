@@ -1,0 +1,6 @@
+C:\Users\Alice\source\repos\MostGamesTask3\MostGamesTask3\bin\Debug\MostGamesTask3.exe.config
+C:\Users\Alice\source\repos\MostGamesTask3\MostGamesTask3\bin\Debug\MostGamesTask3.exe
+C:\Users\Alice\source\repos\MostGamesTask3\MostGamesTask3\bin\Debug\MostGamesTask3.pdb
+C:\Users\Alice\source\repos\MostGamesTask3\MostGamesTask3\obj\Debug\MostGamesTask3.csproj.CoreCompileInputs.cache
+C:\Users\Alice\source\repos\MostGamesTask3\MostGamesTask3\obj\Debug\MostGamesTask3.exe
+C:\Users\Alice\source\repos\MostGamesTask3\MostGamesTask3\obj\Debug\MostGamesTask3.pdb

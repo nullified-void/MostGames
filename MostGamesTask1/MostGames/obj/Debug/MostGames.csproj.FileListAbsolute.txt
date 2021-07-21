@@ -1,0 +1,15 @@
+C:\Users\Alice\source\repos\MostGames\MostGames\bin\Debug\MostGames.exe.config
+C:\Users\Alice\source\repos\MostGames\MostGames\bin\Debug\MostGames.exe
+C:\Users\Alice\source\repos\MostGames\MostGames\bin\Debug\MostGames.pdb
+C:\Users\Alice\source\repos\MostGames\MostGames\obj\Debug\MostGames.csprojAssemblyReference.cache
+C:\Users\Alice\source\repos\MostGames\MostGames\obj\Debug\MainWindow.g.cs
+C:\Users\Alice\source\repos\MostGames\MostGames\obj\Debug\App.g.cs
+C:\Users\Alice\source\repos\MostGames\MostGames\obj\Debug\MostGames_MarkupCompile.cache
+C:\Users\Alice\source\repos\MostGames\MostGames\obj\Debug\MainWindow.baml
+C:\Users\Alice\source\repos\MostGames\MostGames\obj\Debug\MostGames.g.resources
+C:\Users\Alice\source\repos\MostGames\MostGames\obj\Debug\MostGames.Properties.Resources.resources
+C:\Users\Alice\source\repos\MostGames\MostGames\obj\Debug\MostGames.csproj.GenerateResource.cache
+C:\Users\Alice\source\repos\MostGames\MostGames\obj\Debug\MostGames.csproj.CoreCompileInputs.cache
+C:\Users\Alice\source\repos\MostGames\MostGames\obj\Debug\MostGames.exe
+C:\Users\Alice\source\repos\MostGames\MostGames\obj\Debug\MostGames.pdb
+C:\Users\Alice\source\repos\MostGames\MostGames\obj\Debug\MostGames_MarkupCompile.lref
